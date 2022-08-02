@@ -1,7 +1,7 @@
 # Base OS
 FROM debian:buster
 
-MAINTAINER psafflow <psafflow@student.21-school.ru>
+MAINTAINER froyzan <froyzan@yandex.ru>
 
 # Update and upgrade
 RUN apt-get update && apt-get upgrade -y
